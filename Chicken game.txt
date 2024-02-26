@@ -1,0 +1,5 @@
+// Java Game: Jungle Adventure
+public class JungleAdventure {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Jungle Adventure!");
+        // Add your Jungle Adventure game script here
